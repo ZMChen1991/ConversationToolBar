@@ -116,9 +116,5 @@
     
     NSLog(@"openeVocie");
 }
-//- (void)changeFrameToToolbar {
-//
-//    
-//}
 
 @end
